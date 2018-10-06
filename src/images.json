@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Neymar",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/736x/61/6f/8a/616f8a49bdd6bea7a970ad5e1150253e.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Douglas Costa",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/originals/d0/fa/23/d0fa233efc90fc2b9f99c893d2c36e21.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Felipe Luis",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/736x/e7/35/50/e73550a958e1afb8bb453ae07de9481a.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Renato Augusto",
+    "clicked": false,
+    "image":
+      "https://http2.mlstatic.com/panini-figura-353-renato-augusto-album-fifa-rusia-2018-D_NQ_NP_762145-MPE27190309662_042018-F.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Firmino",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/originals/fa/3e/d7/fa3ed78294014c1ce1a4da5e68b441a1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Coutinho",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/736x/21/86/88/218688e52a6b0adfc1ff775ef881e11f.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Beats",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032012/beats_logo.jpg?itok=n0QUXCP8"
+  },
+  {
+    "id": 8,
+    "name": "Gabriel Jesus",
+    "clicked": false,
+    "image":
+      "https://images-na.ssl-images-amazon.com/images/I/510YiiPic0L._SY445_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Marcelo",
+    "clicked": false,
+    "image":
+      "https://http2.mlstatic.com/figurinha-copa-do-mundo-2018-marcelo-D_NQ_NP_993730-MLB27674841452_072018-F.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dani Alves",
+    "clicked": false,
+    "image":
+      "https://http2.mlstatic.com/figurinha-copa-do-mundo-2018-daniel-alves-D_NQ_NP_802227-MLB27659940461_062018-F.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Danilo",
+    "clicked": false,
+    "image":
+      "https://extra.globo.com/incoming/22819461-1e2-59a/w448h673-PROP/danilo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Taison",
+    "clicked": false,
+    "image":
+      "https://extra.globo.com/incoming/22819559-68e-ab8/w448/taison.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Alison",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/originals/c8/23/9d/c8239d0c6d919de174698fb0b71fde45.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Thiago Silva",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/736x/17/ef/50/17ef504043e56c755332ece63405b0b8.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Casemiro",
+    "clicked": false,
+    "image":
+      "https://i.pinimg.com/736x/75/15/f6/7515f6ed2ea0571bd8c74c4df407aad0.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Miranda",
+    "clicked": false,
+    "image":
+      "https://images-na.ssl-images-amazon.com/images/I/51ErsW9vLHL._SY445_.jpg"
+  }
+]
+
